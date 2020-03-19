@@ -1,0 +1,20 @@
+#chart-container {
+    width: 80%;
+    height: 480px;
+    margin: 0 auto;
+  }
+  
+
+  #doughnut-chart-container {
+    height: 400px;
+    width: 400px;
+    float: left;
+  }
+
+  #horizontal-bar-chart-container {
+    width: 500px;
+    height: 600px;
+    float:right
+  }
+
+/*# sourceMappingURL=/piechart.e6f27a31.css.map */
